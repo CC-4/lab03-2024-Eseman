@@ -137,5 +137,9 @@ public class Parser {
         return false;
     }
 
+    private boolean E1(){
+        return E1();
+    }
+
     /* TODO: sus otras funciones aqui */
 }
